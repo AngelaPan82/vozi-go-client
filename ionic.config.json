@@ -1,0 +1,7 @@
+{
+  "name": "VoziGo-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
